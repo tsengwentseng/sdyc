@@ -50,7 +50,7 @@
       "url": "https://cdn.jsdelivr.net/gh/tsengwentseng/mytv@main/tv/youku.m3u",
       "type": "txt",
       "subTitle": "经典动画电影整理中",
-      "click": false,
+      "click": true,
       "autoNext": false,
       "decoder": 1,
       "webPlus": {}
