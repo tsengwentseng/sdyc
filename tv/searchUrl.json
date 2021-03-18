@@ -50,15 +50,15 @@
     },
     {
       "id": 1,
-      "name": "宅看影视",
-      "url": "https://www.zhaikanys.com/api.php/provide/vod/at/xml/",
-      "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16",
-      "click": false,
+      "name": "大地F",
+      "url": "https://dadiapi.com/api.php",
+      "cate": "国产,4&&无M,1&&欧美,3&&自W,39&&师生,41&&自拍,27&&秀视,42&&动画,20&&巨R,36",
+      "click": true,
       "wePlus": {}
     },
     {
       "id": 1,
-      "name": "佳丽云",
+      "name": "佳丽F",
       "url": "https://jialiapi.com/api.php/provide/vod/at/xml/",
       "cate": "国产,22&&少女,28&&网红,5&&无M,1&&丝袜,27&&女T,29&&动画,30&&巨R,25&&欧美,3&&制服,26",
       "click": true,
