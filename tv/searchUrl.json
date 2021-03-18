@@ -50,6 +50,14 @@
     },
     {
       "id": 1,
+      "name": "快活F",
+      "url": "https://www.khzyapi.com/api.php/provide/vod/at/xml/",
+      "cate": "国产,10&&无M,1&&自拍,11&&主播,9&&少女,12&&欧美,8&&女T,13&&人Y,14&&动画,7",
+      "click": true,
+      "wePlus": {}
+    },
+    {
+      "id": 1,
       "name": "大地F",
       "url": "https://dadiapi.com/api.php",
       "cate": "国产,4&&无M,1&&欧美,3&&自W,39&&师生,41&&自拍,27&&秀视,42&&动画,20&&巨R,36",
