@@ -70,7 +70,7 @@
         "id": 2,
         "name": "24小时轮播",
         "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2166.jpg",
-        "url": "https://cdn.jsdelivr.net/gh/tsengwentseng/mytv@main/tv/hy-dianying.txt",
+        "url": "https://cdn.jsdelivr.net/gh/tsengwentseng/sdyc@main/tv/hy-dianying.txt",
         "color": "11",
         "type": "app://txt",
         "show": true
