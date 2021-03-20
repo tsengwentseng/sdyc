@@ -3,8 +3,8 @@
     {
       "name": "斗鱼轮播",
       "pic": "https://ae01.alicdn.com/kf/U9bf5896812ed42bf85a95990035a1696t.jpg",
-      "url": "https://github.com/tsengwentseng/sdyc/raw/main/tv/douyu.txt",
-      "type": "txt",
+      "url": "https://github.com/tsengwentseng/sdyc/raw/main/tv/douyu.m3u",
+      "type": "m3u",
       "subTitle": "",
       "click": true,
       "autoNext": true,
@@ -75,17 +75,6 @@
       "click": true,
       "autoNext": false,
       "decoder": 1,
-      "webPlus": {}
-    },
-     {
-      "name": "YY轮播(选IKJ解码)",
-      "pic": "https://ae01.alicdn.com/kf/U9bf5896812ed42bf85a95990035a1696t.jpg",
-      "url": "https://github.com/tsengwentseng/sdyc/raw/main/tv/yy.m3u",
-      "type": "m3u",
-      "subTitle": "",
-      "click": true,
-      "autoNext": false,
-      "decoder": 0,
       "webPlus": {}
     },
     {
