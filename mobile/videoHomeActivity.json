@@ -70,10 +70,10 @@
         "id": 2,
         "name": "24小时轮播",
         "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2166.jpg",
-        "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/youku.json",
+        "url": "https://cdn.jsdelivr.net/gh/tsengwentseng/mytv@main/tv/hy-dianying.txt",
         "color": "11",
-        "type": "app://gitJson",
-        "show": false
+        "type": "app://txt",
+        "show": true
       },
       {
         "id": 3,
