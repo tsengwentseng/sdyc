@@ -43,7 +43,7 @@
         "id": 2,
         "name": "电视直播",
         "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2166.jpg",
-        "url": "https://cdn.jsdelivr.net/gh/tsengwentseng/sdyc@main/tv/tv-live.m3u",
+        "url": "https://github.com/tsengwentseng/sdyc/raw/main/tv/tv-live.m3u",
         "color": "11",
         "type": "app://m3u",
         "show": true
@@ -52,7 +52,7 @@
         "id": 3,
         "name": "NewTV",
         "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2166.jpg",
-        "url": "https://cdn.jsdelivr.net/gh/tsengwentseng/sdyc@main/tv/newtv.m3u",
+        "url": "https://github.com/tsengwentseng/sdyc/raw/main/tv/newtv.m3u",
         "color": "11",
         "type": "app://m3u",
         "show": true
@@ -61,7 +61,7 @@
         "id": 3,
         "name": "iHOT",
         "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2166.jpg",
-        "url": "https://cdn.jsdelivr.net/gh/tsengwentseng/sdyc@main/tv/ihot.m3u",
+        "url": "https://github.com/tsengwentseng/sdyc/raw/main/tv/ihot.m3u",
         "color": "11",
         "type": "app://m3u",
         "show": true
@@ -70,9 +70,9 @@
         "id": 2,
         "name": "24小时轮播",
         "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2166.jpg",
-        "url": "https://cdn.jsdelivr.net/gh/tsengwentseng/sdyc@main/tv/hy-dianying.txt",
+        "url": "https://github.com/tsengwentseng/sdyc/raw/main/tv/hy-dianying.txt",
         "color": "11",
-        "type": "app://txt",
+        "type": "app://gitTxt",
         "show": true
       },
       {
