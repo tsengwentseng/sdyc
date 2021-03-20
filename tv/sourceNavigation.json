@@ -11,17 +11,6 @@
       "decoder": 0,
       "webPlus": {}
     },
- {
-      "name": "斗鱼轮播测试",
-      "pic": "https://ae01.alicdn.com/kf/U9bf5896812ed42bf85a95990035a1696t.jpg",
-      "url": "https://github.com/tsengwentseng/sdyc/raw/main/tv/动漫轮播.json",
-      "type": "json",
-      "subTitle": "",
-      "click": true,
-      "autoNext": true,
-      "decoder": 0,
-      "webPlus": {}
-    },
     {
       "name": "虎牙电影(选IJK解码)",
       "pic": "https://ae01.alicdn.com/kf/U9bf5896812ed42bf85a95990035a1696t.jpg",
@@ -45,17 +34,6 @@
       "webPlus": {}
     },
     {
-      "name": "虎牙综艺(选IJK解码)",
-      "pic": "https://ae01.alicdn.com/kf/U9bf5896812ed42bf85a95990035a1696t.jpg",
-      "url": "https://github.com/tsengwentseng/sdyc/raw/main/tv/hy-zongyi.txt",
-      "type": "txt",
-      "subTitle": "",
-      "click": true,
-      "autoNext": false,
-      "decoder": 1,
-      "webPlus": {}
-    },
-        {
       "name": "五分钟电影(选IJK解码)",
       "pic": "https://ae01.alicdn.com/kf/U9bf5896812ed42bf85a95990035a1696t.jpg",
       "url": "https://github.com/tsengwentseng/sdyc/raw/main/tv/hy-shuodianying.txt",
