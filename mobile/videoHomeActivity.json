@@ -38,15 +38,6 @@
         "color": "11",
         "type": "app://m3u",
         "show": true
-      },
-      {
-        "id": 2,
-        "name": "24小时轮播",
-        "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2166.jpg",
-        "url": "https://github.com/tsengwentseng/sdyc/raw/main/tv/hy-dianying.txt",
-        "color": "11",
-        "type": "app://gitTxt",
-        "show": true
       }
     ]
   }
