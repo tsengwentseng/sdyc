@@ -28,22 +28,6 @@
           "url": "http://tx2play1.douyucdn.cn/live/85894rmovieChow.flv?uuid="
         },
         {
-          "id": 103,
-          "pid": 1,
-          "cid": 1504768,
-          "name": "电影直播厅4",
-          "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4213.jpg",
-          "url": "http://tx2play1.douyucdn.cn/live/1504768rgidcFEaq.flv?uuid="
-        },
-        {
-          "id": 105,
-          "pid": 1,
-          "cid": 252802,
-          "name": "电影直播厅5",
-          "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4210.jpg",
-          "url": "http://tx2play1.douyucdn.cn/live/252802rbQGaZXUQi.flv?uuid="
-        },
-        {
           "id": 106,
           "pid": 1,
           "cid": 3637765,
@@ -52,36 +36,12 @@
           "url": "http://tx2play1.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid="
         },
         {
-          "id": 107,
-          "pid": 1,
-          "cid": 7077241,
-          "name": "电影直播厅7",
-          "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
-          "url": "http://tx2play1.douyucdn.cn/live/7077241rjJnPBfQS.flv?uuid="
-        },
-        {
-          "id": 108,
-          "pid": 1,
-          "cid": 218859,
-          "name": "电影直播厅8",
-          "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4197.jpg",
-          "url": "http://tx2play1.douyucdn.cn/live/218859rhVaTIAcuG.flv?uuid="
-        },
-        {
           "id": 109,
           "pid": 1,
           "cid": 20415,
           "name": "电影直播厅9",
           "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4192.jpg",
           "url": "http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid="
-        },
-        {
-          "id": 110,
-          "pid": 1,
-          "cid": 52787,
-          "name": "电影直播厅10",
-          "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4193.jpg",
-          "url": "http://tx2play1.douyucdn.cn/live/52787rNtGBH5eKTB.flv?uuid="
         }
       ]
     },
