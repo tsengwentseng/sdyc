@@ -1,3 +1,4 @@
+json-----------------------------
 {
   "data": [
     {
@@ -27,3 +28,18 @@
     }
   ]
 }
+
+
+
+txt-----------------------------------
+
+周星驰,http://kuqq.tk/00/huya.php?id=11342412
+林正英,http://kuqq.tk/00/huya.php?id=11342421
+
+m3u--------------------------------------
+
+#EXTM3U
+#EXTINF:-1,CIBN嗨播
+http://66.zipeszn.xyz/qq1792493091/cibn.php?id=145
+#EXTINF:-1,CIBN真人秀
+http://66.zipeszn.xyz/qq1792493091/cibn.php?id=LuShi
