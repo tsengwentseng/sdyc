@@ -17,7 +17,7 @@
           "cid": 3637778,
           "name": "电影直播厅2",
           "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4189.jpg",
-          "url": "http://tx2play1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid="
+          "url": "http://tx2play1.douyucdn.cn/live/85894rmovieChow.flv?uuid="
         },
         {
           "id": 102,
@@ -25,23 +25,39 @@
           "cid": 85894,
           "name": "电影直播厅3",
           "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p4196.jpg",
-          "url": "http://tx2play1.douyucdn.cn/live/85894rmovieChow.flv?uuid="
+          "url": "http://tx2play1.douyucdn.cn/live/747764rpqnJBlpMR.flv?uuid="
+        },
+                {
+          "id": 103,
+          "pid": 1,
+          "cid": 3637765,
+          "name": "电影直播厅4",
+          "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4190.jpg",
+          "url": "http://tx2play1.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid="
+        },
+                {
+          "id": 104,
+          "pid": 1,
+          "cid": 3637765,
+          "name": "电影直播厅5",
+          "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4190.jpg",
+          "url": "http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid="
         },
         {
-          "id": 106,
+          "id": 105,
           "pid": 1,
           "cid": 3637765,
           "name": "电影直播厅6",
           "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4190.jpg",
-          "url": "http://tx2play1.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid="
+          "url": "http://tx2play1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid="
         },
         {
-          "id": 109,
+          "id": 106,
           "pid": 1,
           "cid": 20415,
-          "name": "电影直播厅9",
+          "name": "电影直播厅7",
           "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4192.jpg",
-          "url": "http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid="
+          "url": "http://tx2play1.douyucdn.cn/live/85894rmovieChow.flv?uuid="
         }
       ]
     },
