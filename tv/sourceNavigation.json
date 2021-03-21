@@ -13,7 +13,7 @@
     },
     {
       "name": "虎牙电影(选IJK解码)",
-      "pic": "https://ae01.alicdn.com/kf/U9bf5896812ed42bf85a95990035a1696t.jpg",
+      "pic": "https://a.msstatic.com/huya/main3/static/img/logo.png",
       "url": "https://cdn.jsdelivr.net/gh/tsengwentseng/sdyc@main/tv/z-hy-dianying.m3u",
       "type": "m3u",
       "subTitle": "",
@@ -24,7 +24,7 @@
     },
     {
       "name": "虎牙电视(选IJK解码)",
-      "pic": "https://ae01.alicdn.com/kf/U9bf5896812ed42bf85a95990035a1696t.jpg",
+      "pic": "https://a.msstatic.com/huya/main3/static/img/logo.png",
       "url": "https://github.com/tsengwentseng/sdyc/raw/main/tvz-/hy-dianshi.m3u",
       "type": "m3u",
       "subTitle": "",
@@ -35,7 +35,7 @@
     },
     {
       "name": "五分钟电影(选IJK解码)",
-      "pic": "https://ae01.alicdn.com/kf/U9bf5896812ed42bf85a95990035a1696t.jpg",
+      "pic": "https://a.msstatic.com/huya/main3/static/img/logo.png",
       "url": "https://cdn.jsdelivr.net/gh/tsengwentseng/sdyc@main/tv/z-hy-shuodianying.m3u",
       "type": "m3u",
       "subTitle": "",
@@ -46,7 +46,7 @@
     },
     {
       "name": "优酷轮播(选IJK解码)",
-      "pic": "https://ae01.alicdn.com/kf/U9bf5896812ed42bf85a95990035a1696t.jpg",
+      "pic": "https://gw.alicdn.com/tfs/TB1ugm9f5cKOu4jSZKbXXc19XXa-356-76.png",
       "url": "https://cdn.jsdelivr.net/gh/tsengwentseng/sdyc@main/tv/z-youku.m3u",
       "type": "m3u",
       "subTitle": "",
