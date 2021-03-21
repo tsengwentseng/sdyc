@@ -23,9 +23,9 @@
       },
       {
         "id": 2,
-        "name": "斗鱼轮播",
+        "name": "优酷轮播",
         "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2166.jpg",
-        "url": "https://cdn.jsdelivr.net/gh/tsengwentseng/sdyc@main/tv/z-douyu.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/tsengwentseng/sdyc@main/tv/z-youku.m3u",
         "color": "11",
         "type": "app://m3u",
         "show": true
