@@ -50,6 +50,15 @@
       },
       {
         "id": 4,
+        "name": "虎牙说电影",
+        "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2166.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/tsengwentseng/sdyc@main/tv/z-hy-shuodianying.m3u",
+        "color": "11",
+        "type": "app://m3u",
+        "show": true
+      },
+      {
+        "id": 4,
         "name": "电视直播",
         "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2166.jpg",
         "url": "https://cdn.jsdelivr.net/gh/tsengwentseng/sdyc@main/tv/z-tv-live.m3u",
@@ -58,7 +67,7 @@
         "show": true
       },
       {
-        "id": 4,
+        "id": 5,
         "name": "NewTV",
         "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2166.jpg",
         "url": "https://cdn.jsdelivr.net/gh/tsengwentseng/sdyc@main/tv/z-newtv.m3u",
