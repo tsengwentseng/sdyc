@@ -8,6 +8,7 @@
       "click": true,
       "wePlus": {}
     },
+    {
       "id": 1,
       "name": "88云",
       "url": "http://www.88zyw.net/inc/m3u8.php",
@@ -15,6 +16,7 @@
       "click": true,
       "wePlus": {}
     },
+    {
       "id": 1,
       "name": "//最大云",
       "url": "http://www.zdziyuan.com/inc/api_zuidam3u8.php",
