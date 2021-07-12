@@ -17,7 +17,7 @@
       "url": "https://cdn.jsdelivr.net/gh/tsengwentseng/sdyc@main/tv/source/hy-dianying.m3u",
       "type": "m3u",
       "subTitle": "",
-      "click": true,
+      "click": false,
       "autoNext": false,
       "decoder": 1,
       "webPlus": {}
@@ -28,7 +28,7 @@
       "url": "https://cdn.jsdelivr.net/gh/tsengwentseng/sdyc@main/tv/source/hy-dianshi.m3u",
       "type": "m3u",
       "subTitle": "",
-      "click": true,
+      "click": false,
       "autoNext": false,
       "decoder": 1,
       "webPlus": {}
@@ -39,18 +39,7 @@
       "url": "https://cdn.jsdelivr.net/gh/tsengwentseng/sdyc@main/tv/source/hy-shuodianying.m3u",
       "type": "m3u",
       "subTitle": "",
-      "click": true,
-      "autoNext": false,
-      "decoder": 1,
-      "webPlus": {}
-    },
-    {
-      "name": "优酷轮播(选IJK解码)",
-      "pic": "https://ae03.alicdn.com/kf/U7be0fb9c2c1a4f1b8c3c3c2b730400b5z.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/tsengwentseng/sdyc@main/tv/source/youku.m3u",
-      "type": "m3u",
-      "subTitle": "",
-      "click": true,
+      "click": false,
       "autoNext": false,
       "decoder": 1,
       "webPlus": {}
