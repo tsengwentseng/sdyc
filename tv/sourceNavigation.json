@@ -77,6 +77,20 @@
       "webPlus": {}
      },
 {
+      "name": "虎牙一起看（Web）",
+      "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkipc63ij31hc0u0wv2.jpg",
+      "url": "https://www.huya.com/g/2135",
+      "type": "web",
+      "subTitle": "经典动画电影整理中",
+      "click": true,
+      "autoNext": false,
+      "webOpen": true,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
+     },
+{
       "name": "企鹅一起看（Web）",
       "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkipc63ij31hc0u0wv2.jpg",
       "url": "https://egame.qq.com/livelist?layoutid=2000000110",
