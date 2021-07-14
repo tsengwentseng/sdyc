@@ -152,54 +152,6 @@
       "cate": "国产剧,12&&韩剧,18&&日剧,14&&欧美剧,15&&台湾剧,16&&港澳剧,13&&泰剧,17&&动漫,4&&综艺,3&&动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&剧情片,10&&战争片,11",
       "click": true,
       "wePlus": {}
-    },
-	    {
-      "id": 1,
-      "name": "★9号资源",
-      "url": "http://fhapi9.com/api.php/provide/vod/at/xml/",
-      "cate": "国产,10&&无码,3&&欧美,7&&盗录,11&&萝莉,14&&女同,13&&人妖,15	&&动画,20&&巨乳,8",
-      "click": false,
-      "wePlus": {}
-    },
-	    {
-      "id": 1,
-      "name": "★炮台资源",
-      "url": "http://ptcj.ptzycj.com/api.php/hyang/vod/at/xml/",
-      "cate": "国产,2&&无码,21&&欧美,3&&卡通,4&&韩国,24",
-      "click": false,
-      "wePlus": {}
-    },
-    {
-      "id": 1,
-      "name": "★大地",
-      "url": "https://dadiapi.com/api.php",
-      "cate": "国产,4&&无码,1&&欧美,3&&自慰,39&&师生,41&&自拍,27&&秀视,42&&动画,20&&巨乳,36",
-      "click": false,
-      "wePlus": {}
-    },
-    {
-      "id": 1,
-      "name": "★辣椒",
-      "url": "https://apilj.com/api.php/provide/vod/at/xml/",
-      "cate": "国产,1&&无码,3&&欧美,2&&萝莉,22&&格斗,27&&GIGA,28&&HEYZO,31&&HEY诱惑,33&&巨乳,34&&少女,37",
-      "click": false,
-      "wePlus": {}
-    },	
-    {
-      "id": 1,
-      "name": "★鲨鱼",
-      "url": "https://shayuapi.com/api.php/provide/vod/at/xml/",
-      "cate": "国产,1&&无码,2&&欧美,23&&动漫,22&&精品,31",
-      "click": false,
-      "wePlus": {}
-    },	
-    {
-      "id": 1,
-      "name": "★佳丽",
-      "url": "https://jialiapi.com/api.php/provide/vod/at/xml/",
-      "cate": "国产,22&&无码,1&&欧美,3&&萝莉,28&&网红,5&&丝袜,27&&女同,29&&动画,30&&巨乳,25&&制服,26",
-      "click": false,
-      "wePlus": {}
     }
   ]
 }
