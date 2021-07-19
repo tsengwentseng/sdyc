@@ -67,7 +67,7 @@
     {
       "name": "虎牙",
       "pic": "https://ss3.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=4067315295,3810897047&fm=26&gp=0.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/tsengwentseng/sdyc@main/tv/source/huya.json",
+      "url": "https://cdn.jsdelivr.net/gh/tsengwentseng/sdyc15@main/tv/source/huya.json",
       "type": "json",
       "subTitle": "",
       "click": true,
