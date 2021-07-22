@@ -38,7 +38,7 @@
       "url": "https://cdn.jsdelivr.net/gh/tsengwentseng/sdyc@main/tv/source/douyu.m3u",
       "type": "m3u",
       "subTitle": "",
-      "click": true,
+      "click": false,
       "autoNext": true,
       "webOpen": false,
       "keyDownPlay": true,
