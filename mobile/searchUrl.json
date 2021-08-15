@@ -176,11 +176,35 @@
       "click": false,
       "wePlus": {}
     },
+	      {
+      "id": 1,
+      "name": "★UGV资源",
+      "url": "https://www.ugvapi.com/inc/zyapimac.php",
+      "cate": "国产,1&&无码,5&&欧美,3",
+      "click": false,
+      "wePlus": {}
+    },	
+	      {
+      "id": 1,
+      "name": "★苍天资源",
+      "url": "http://cj.cangtiancj.com/api.php/Seacms/vod/at/xml/",
+      "cate": "国产,70&&无码,67&&欧美,71",
+      "click": false,
+      "wePlus": {}
+    },	
+	      {
+      "id": 1,
+      "name": "★乐播资源",
+      "url": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+      "cate": "国产,3&&无码,4&&欧美,5",
+      "click": false,
+      "wePlus": {}
+    },	
     {
       "id": 1,
-      "name": "★辣椒",
-      "url": "https://apilj.com/api.php/provide/vod/at/xml/",
-      "cate": "国产,1&&无码,3&&欧美,2&&萝莉,22&&格斗,27&&GIGA,28&&HEYZO,31&&HEY诱惑,33&&巨乳,34&&少女,37",
+      "name": "★番号资源",
+      "url": "http://fhapi9.com/api.php/provide/vod/at/xml/",
+      "cate": "国产,10&&无码,3&&欧美,7",
       "click": false,
       "wePlus": {}
     },	
