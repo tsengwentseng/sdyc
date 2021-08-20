@@ -1,0 +1,203 @@
+ "sites": [
+    {
+      "key": "快播云",
+      "name": "快播云",
+      "type": 0,
+      "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml/",
+      "categories": [
+
+      ]
+      },
+      {
+      "key": "江湖资源",
+      "name": "江湖资源",
+      "type": 0,
+      "api": "http://sm.2021ys.ltd/mv/api.php/provide/vod/at/xml",
+      "categories": [
+
+      ]
+    },
+    {
+      "key": "百度云",
+      "name": "百度云",
+      "type": 0,
+      "api": "https://api.bdjx.vip/api.php/provide/vod/at/xml/"
+    },
+    {
+      "key": "爱看影视",
+      "name": "爱看影视",
+      "type": 1,
+      "api": "http://tvcms.ikan6.vip/api.php/provide/vod/?ac=list"
+    },
+    {
+      "key": "293影视",
+      "name": "293影视",
+      "type": 1,
+      "api": "http://api.ccys.me:2020/api.php/provide/vod/?ac=list"
+    },
+    {
+      "key": "喵派对",
+      "name": "喵派对",
+      "type": 0,
+      "api": "https://api-cj.miao.party/api.php/provide/vod/at/xml/"
+    },
+     {
+      "key": "游艺资源",
+      "name": "游艺资源",
+      "type": 1,
+      "api": "http://api01.hexh.ink/api.php/provide/vod/?ac=list",
+      "playUrl": "http://api.u1o.net/?url="
+    },
+    {
+      "key": "9875影视",
+      "name": "9875影视",
+      "type": 1,
+      "api": "https://www.9875.xyz/api.php/provide/vod/?ac=list"
+    },
+    {
+      "key": "清莲资源",
+      "name": "清莲资源",
+      "type": 1,
+      "api": "https://www.qinglyy.com/api.php/provide/vod/at/xml24",
+      "playUrl": "http://api.u1o.net/?url="
+    },
+    {
+      "key": "恐怖鸭",
+      "name": "恐怖鸭",
+      "type": 0,
+      "api": "http://snailkya.xyz/api.php/provide/vod/at/xml"
+    },
+    {
+      "key": "阿里影视",
+      "name": "阿里影视",
+      "type": 0,
+      "api": "http://www.feishi.ltd/api.php/provide/vod/at/xml"
+    },
+    {
+      "key": "北斗星",
+      "name": "北斗星",
+      "type": 0,
+      "api": "https://api.bdxzyapi.com/api.php/Seacms/vod/"
+    },
+    {
+      "key": "柚子资源",
+      "name": "柚子资源",
+      "type": 0,
+      "api": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml",
+      "categories": [
+      
+      ]
+    },
+    {
+      "key": "红牛",
+      "name": "红牛",
+      "type": 0,
+      "api": "https://www.hongniuzy.com/inc/seahnyun.php"
+    },
+    {
+      "key": "清欢资源",
+      "name": "清欢资源",
+      "type": 0,
+      "api": "https://free.qinghuanzy.com/api.php/provide/vod/at/xml/"
+    },
+    {
+      "key": "影派资源",
+      "name": "影派资源",
+      "type": 0,
+      "api": "https://v.dtjos.com/api.php/provide/vod/at/xml"
+    },
+    {
+      "key": "最新资源",
+      "name": "最新资源",
+      "type": 0,
+      "api": "https://api.yunboys.cn/api.php/provide/vod/at/xml/"
+    },
+    {
+      "key": "三零资源",
+      "name": "三零资源",
+      "type": 0,
+      "api": "http://api.000zy.com/provide/vod/at/xml/"
+    },
+    {
+      "key": "萌果",
+      "name": "萌果",
+      "type": 0,
+      "api": "http://api.appearoo.top/api.php/provide/vod/at/xml/"
+    },
+    {
+      "key": "第一资源",
+      "name": "第一资源",
+      "type": 0,
+      "api": "https://www.1zy.top/api.php/provide/vod/from/mao/at/xml/"
+    },
+    {
+      "key": "安逸影院",
+      "name": "安逸影院",
+      "type": 0,
+      "api": "http://dy.51isu.com:11801/api.php/provide/vod/at/xml",
+      "categories": [
+      ]
+    },
+    {
+      "key": "2A资源站",
+      "name": "2A资源站",
+      "type": 1,
+      "api": "http://zy.zcocc.com/api.php/provide/vod/",
+      "categories": [
+
+      ]
+    },
+    {
+      "key": "7k资源",
+      "name": "7k资源",
+      "type": 0,
+      "api": "https://zy.7kjx.com/cjapi.php",
+      "categories": [
+        "综艺",
+        "动漫",
+        "动作片",
+        "喜剧片",
+
+      ]
+    },
+    {
+      "key": "蘑菇资源",
+      "name": "蘑菇资源",
+      "type": 0,
+      "api": "http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml/",
+      "categories": [
+
+      ]
+    },
+    {
+      "key": "88资源",
+      "name": "88资源",
+      "type": 0,
+      "api": "http://www.88zyw.net/inc/api.php",
+      "categories": [
+        "欧美片"
+      ]
+    },
+    {
+      "key": "39影视",
+      "name": "39影视",
+      "type": 0,
+      "api": "https://www.39kan.com/api.php/provide/vod/at/xml",
+      "categories": [
+
+    },
+    {
+      "key": "追剧吧",
+      "name": "追剧吧",
+      "type": 0,
+      "api": "http://www.huaxiab.com/api.php/provide/vod/at/xml",
+      "categories": [
+
+      ]
+    },
+    {
+      "key": "365影视",
+      "name": "365影视",
+      "type": 0,
+      "api": "http://video.365tx.com/api.php/provide/vod/at/xml"
+    },
