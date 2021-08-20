@@ -45,7 +45,7 @@
       "name": "※零度云",
       "url": "https://zy.kuluni.cn/api.php/provide/vod/at/xml/",
       "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&战争片,12&&&灾难片,32&&纪录片,31&&国产剧,13&&日韩剧,15&&欧美剧,16&&综艺,3&&动漫,4",
-      "click": false,
+      "click": true,
       "wePlus": {}
     },	
     {
@@ -125,7 +125,7 @@
       "name": "※柚子",
       "url": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml",
       "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&战争片,12&&纪录片,20&&国产剧,13&&日韩剧,15&&欧美剧,16&&综艺,3&&动漫,4",
-      "click": false,
+      "click": true,
       "wePlus": {}
     },
   {
