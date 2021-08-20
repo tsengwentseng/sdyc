@@ -36,7 +36,7 @@
       "id": 1,
       "name": "※UGV",
       "url": "https://www.ugvapi.com/inc/zyapimac.php",
-      "cate": "",
+      "cate": "国产,10",
       "click": false,
       "wePlus": {}
     },	
@@ -44,7 +44,7 @@
       "id": 1,
       "name": "※苍天",
       "url": "http://cj.cangtiancj.com/api.php/Seacms/vod/at/xml/",
-      "cate": "",
+      "cate": "国产,10",
       "click": false,
       "wePlus": {}
     },	
@@ -52,7 +52,7 @@
       "id": 1,
       "name": "※乐播",
       "url": "https://lbapi9.com/api.php/provide/vod/at/xml/",
-      "cate": "",
+      "cate": "国产,10",
       "click": false,
       "wePlus": {}
     },	
@@ -60,7 +60,7 @@
       "id": 1,
       "name": "※番号",
       "url": "http://fhapi9.com/api.php/provide/vod/at/xml/",
-      "cate": "",
+      "cate": "国产,10",
       "click": false,
       "wePlus": {}
     },	
@@ -68,7 +68,7 @@
       "id": 1,
       "name": "※丝袜",
       "url": "https://www.siwazyw.com/api.php/provide/vod/at/xml",
-      "cate": "",
+      "cate": "国产,10",
       "click": true,
       "wePlus": {}    
  }, 
@@ -76,7 +76,7 @@
       "id": 1,
       "name": "※秀色",
       "url": "https://api.xiuseapi.com/api.php/provide/vod/at/xml",
-      "cate": "",
+      "cate": "国产,10",
       "click": true,
       "wePlus": {}    
  }, 
@@ -84,7 +84,7 @@
       "id": 1,
       "name": "※茄子",
       "url": "https://qiezizy.com/api.php/provide/vod/at/xml",
-      "cate": "",
+      "cate": "国产,10",
       "click": true,
       "wePlus": {}    
  }, 
@@ -92,7 +92,7 @@
       "id": 1,
       "name": "※芒果",
       "url": "https://mgzyz1.com/api.php/provide/vod/at/xml",
-      "cate": "",
+      "cate": "国产,10",
       "click": true,
       "wePlus": {}    
  }, 
@@ -100,7 +100,7 @@
       "id": 1,
       "name": "※桃色",
       "url": "https://cj.taoseapi.com/inc/api.php",
-      "cate": "",
+      "cate": "国产,10",
       "click": true,
       "wePlus": {}    
  }, 
@@ -108,7 +108,7 @@
       "id": 1,
       "name": "※猛牛",
       "url": "http://nen13.space/api.php/provide/vod/at/xml",
-      "cate": "",
+      "cate": "国产,10",
       "click": true,
       "wePlus": {}    
  }, 
@@ -116,7 +116,7 @@
       "id": 1,
       "name": "※优果",
       "url": "https://www.ugirl6.com/inc/zyapimac.php",
-      "cate": "",
+      "cate": "国产,10",
       "click": true,
       "wePlus": {}    
  },  
@@ -124,7 +124,7 @@
       "id": 1,
       "name": "※辣椒",
       "url": "http://www.lajiaozy18.com/api.php/provide/vod/at/xml",
-      "cate": "",
+      "cate": "国产,10",
       "click": true,
       "wePlus": {}    
  },  
@@ -132,7 +132,7 @@
       "id": 1,
       "name": "※老鸭",
       "url": "http://laoyazy5.com/api.php/provide/vod/at/xml",
-      "cate": "",
+      "cate": "国产,10",
       "click": true,
       "wePlus": {}    
  },  
@@ -140,7 +140,7 @@
       "id": 1,
       "name": "※BB资源",
       "url": "http://bbzy.cc/inc/maccms10.php",
-      "cate": "",
+      "cate": "国产,10",
       "click": true,
       "wePlus": {}    
  },  
@@ -148,7 +148,7 @@
       "id": 1,
       "name": "※100ai",
       "url": "http://www.010aizy.com/API/maxs.php",
-      "cate": "",
+      "cate": "国产,10",
       "click": true,
       "wePlus": {}    
  },  
@@ -156,7 +156,7 @@
       "id": 1,
       "name": "※百度",
       "url": "http://www.llbdzy.com/api.php/provide/vod/at/xml",
-      "cate": "",
+      "cate": "国产,10",
       "click": true,
       "wePlus": {}    
  },  
@@ -164,7 +164,7 @@
       "id": 1,
       "name": "※bttcj",
       "url": "http://bttcj.com/inc/sapi.php",
-      "cate": "",
+      "cate": "国产,10",
       "click": true,
       "wePlus": {}    
  },  
@@ -172,7 +172,7 @@
       "id": 1,
       "name": "※富二代",
       "url": "http://f2dcj6.com/sapi?ac=videolist",
-      "cate": "",
+      "cate": "国产,10",
       "click": true,
       "wePlus": {}    
  },  
@@ -180,7 +180,7 @@
       "id": 1,
       "name": "※色色",
       "url": "http://sscj8.com/inc/sapi.php?ac=videolist",
-      "cate": "",
+      "cate": "国产,10",
       "click": true,
       "wePlus": {}    
  }, 
@@ -188,7 +188,7 @@
       "id": 1,
       "name": "※玖玖",
       "url": "http://99zywcj.com/inc/sck.php?ac=videolist",
-      "cate": "",
+      "cate": "国产,10",
       "click": true,
       "wePlus": {}    
  }, 
@@ -196,7 +196,7 @@
       "id": 1,
       "name": "※久草",
       "url": "http://jcspcj8.com/sapi?ac=videolist",
-      "cate": "",
+      "cate": "国产,10",
       "click": true,
       "wePlus": {}    
  },  
@@ -204,7 +204,7 @@
       "id": 1,
       "name": "※利来",
       "url": "http://llzxcj.com/inc/sck.php?ac=videolist",
-      "cate": "",
+      "cate": "国产,10",
       "click": true,
       "wePlus": {}    
  },  
@@ -212,7 +212,7 @@
       "id": 1,
       "name": "※字幕",
       "url": "http://zmcj88.com/sapi?ac=videolist",
-      "cate": "",
+      "cate": "国产,10",
       "click": true,
       "wePlus": {}    
  },   
@@ -220,7 +220,7 @@
       "id": 1,
       "name": "※狼少年",
       "url": "http://cjmygzy.com/inc/sapi.php?ac=videolist",
-      "cate": "",
+      "cate": "国产,10",
       "click": true,
       "wePlus": {}    
  } 
