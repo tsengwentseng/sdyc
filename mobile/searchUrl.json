@@ -2,159 +2,7 @@
   "data": [
 	    {
       "id": 1,
-      "name": "※影派影视",
-      "url": "https://v.dtjos.com/api.php/provide/vod/at/xml",
-      "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&战争片,12&&纪录片,28&&国产剧,13&&日韩剧,15&&欧美剧,16&&综艺,3&&动漫,4",
-      "click": true,
-      "wePlus": {}
-    },
-	 {
-      "id": 1,
-      "name": "※免费影院",
-      "url": "http://www.ruiuri.com/api.php/provide/vod/at/xml/",
-      "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&战争片,12&&纪录片,50&&国产剧,13&&日韩剧,15&&欧美剧,16&&综艺,3&&动漫,4",
-      "click": true,
-      "wePlus": {}
-    },
-    {
-      "id": 1,
-      "name": "※百度云",
-      "url": "https://cj.apibdzy.com/inc/api.php",
-      "cate": "动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&战争片,11&&纪录片,18&&国产剧,12&&日韩剧,14&&欧美剧,15&&综艺,3&&动漫,4&&MV,48",
-      "click": true,
-      "wePlus": {}
-    },
-    {
-      "id": 1,
-      "name": "※1886资源",
-      "url": "http://cj.1886zy.co/inc/api.php",
-      "cate": "动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&战争片,11&&纪录片,23&&国产剧,12&&日韩剧,14&&欧美剧,15&&综艺,3&&动漫,4",
-      "click": true,
-      "wePlus": {}
-    },
-    {
-      "id": 1,
-      "name": "※7K云",
-      "url": "https://zy.7kjx.com/api.xml",
-      "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&战争片,12&&国产剧,13&&日韩剧,15&&欧美剧,16&&综艺,3&&动漫,4",
-      "click": true,
-      "wePlus": {}
-    },	
-    {
-      "id": 1,
-      "name": "※零度云",
-      "url": "https://zy.kuluni.cn/api.php/provide/vod/at/xml/",
-      "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&战争片,12&&&灾难片,32&&纪录片,31&&国产剧,13&&日韩剧,15&&欧美剧,16&&综艺,3&&动漫,4",
-      "click": true,
-      "wePlus": {}
-    },	
-    {
-      "id": 1,
-      "name": "※八戒云",
-      "url": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
-      "cate": "动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&奇幻片,10&&战争片,101&&纪录片,99&&国产剧,12&&日韩剧,15&&欧美剧,17&&综艺,3&&动漫,4",
-      "click": true,
-      "wePlus": {}
-    },		
-    {
-      "id": 1,
-      "name": "※乐多云",
-      "url": "http://www.leduozy.com/inc/api.php",
-      "cate": "动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&战争片,11&&纪录片,22&&国产剧,12&&日韩剧,17&&欧美剧,15&&综艺,3&&动漫,4",
-      "click": true,
-      "wePlus": {}
-    },
-    {
-      "id": 1,
-      "name": "※88云",
-      "url": "http://www.88zyw.net/inc/m3u8.php",
-      "cate": "动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&战争片,11&&纪录片,20&&国产剧,12&&日韩剧,14&&欧美剧,15&&综艺,3&&动漫,4",
-      "click": true,
-      "wePlus": {}
-    },
-	 {
-      "id": 1,
-      "name": "※快播云",
-      "url": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml/",
-      "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&战争片,12&&纪录片,21&&国产剧,13&&日韩剧,15&&欧美剧,16&&综艺,3&&动漫,4",
-      "click": true,
-      "wePlus": {}
-    },
-    {
-      "id": 1,
-      "name": "※天空云",
-      "url": "https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8",
-      "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&战争片,12&&纪录片,32&&国产剧,13&&日韩剧,26&&欧美剧,16&&综艺,3&&动漫,4&&解说,39",
-      "click": true,
-      "wePlus": {}
-    },
-	{
-          "id":1,
-         "name": "※爪可可影院",
-         "url":"https://www.zwcoco.com/api.php/provide/vod/at/xml/",
-         "cate":"动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&战争片,12&&纪录片,35&&国产剧,13&&日韩剧,23&&欧美剧,16&&综艺,3&&动漫,4",
-         "click": true,
-         "wePlus": {}
-     },
-    {
-      "id": 1,
-      "name": "※39影视",
-      "url": "https://www.39kan.com/api.php/provide/vod/at/xml/",
-      "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&战争片,12&&国产剧,13&&日韩剧,15&&欧美剧,16&&综艺,3&&动漫,4",
-      "click": true,
-      "wePlus": {}
-    },
-    {
-      "id": 1,
-      "name": "※追剧吧",
-      "url": "http://www.huaxiab.com/api.php/provide/vod/at/xml/",
-      "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&战争片,12&&灾难片,24&&国产剧,13&&日韩剧,15&&欧美剧,16&&综艺,3&&动漫,4",
-      "click": true,
-      "wePlus": {}
-    },
-    {
-      "id": 1,
-      "name": "※飘花云",
-      "url": "http://www.2mjtt.com/inc/api.php/provide/vod/at/xml/",
-      "cate": "动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&战争片,11&&国产剧,12&&日韩剧,14&&欧美剧,15&&综艺,3&&动漫,4&&解说,31",
-      "click": true,
-      "wePlus": {}
-    },
-    {
-      "id": 1,
-      "name": "※柚子",
-      "url": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml",
-      "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&战争片,12&&纪录片,20&&国产剧,13&&日韩剧,15&&欧美剧,16&&综艺,3&&动漫,4",
-      "click": false,
-      "wePlus": {}
-    },
-  {
-      "id": 1,
-      "name": "※速影",
-      "url": "https://xn--128-zm3fr26s.xyz/inc/api.php",
-      "cate": "动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&战争片,11&&纪录片,20&&国产剧,12&&日韩剧,17&&欧美剧,15&&综艺,3&&动漫,4",
-      "click": true,
-      "wePlus": {}
-    },
-    {
-      "id": 1,
-      "name": "※九零影院",
-      "url": "http://www.9xku.com/api.php/provide/vod/at/xml/",
-      "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&战争片,12&&国产剧,13&&日韩剧,15&&欧美剧,16&&综艺,3&&动漫,4",
-      "click": true,
-      "wePlus": {}
-    },
-    {
-      "id": 1,
-      "name": "※红牛资源",
-      "url": "http://www.hongniuzy.com/inc/seacms.php",
-      "cate": "动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&战争片,11&&纪录片,19&&国产剧,12&&日韩剧,18&&欧美剧,15&&综艺,3&&动漫,4",
-      "click": true,
-      "wePlus": {}
-    },
-	    {
-      "id": 1,
-      "name": "★9号资源",
+      "name": "※9号资源",
       "url": "http://fhapi9.com/api.php/provide/vod/at/xml/",
       "cate": "国产,10&&无码,3&&欧美,7&&盗录,11&&萝莉,14&&女同,13&&人妖,15&&动画,20&&巨乳,8",
       "click": false,
@@ -162,7 +10,7 @@
     },
 	    {
       "id": 1,
-      "name": "★炮台资源",
+      "name": "※炮台资源",
       "url": "http://ptcj.ptzycj.com/api.php/hyang/vod/at/xml/",
       "cate": "国产,2&&无码,21&&欧美,3&&卡通,4&&韩国,24",
       "click": false,
@@ -170,7 +18,7 @@
     },
     {
       "id": 1,
-      "name": "★大地",
+      "name": "※大地",
       "url": "https://dadiapi.com/api.php",
       "cate": "国产,4&&无码,1&&欧美,3&&自慰,39&&师生,41&&自拍,27&&秀视,42&&动画,20&&巨乳,36",
       "click": false,
@@ -178,7 +26,7 @@
     },
 	      {
       "id": 1,
-      "name": "★UGV资源",
+      "name": "※UGV资源",
       "url": "https://www.ugvapi.com/inc/zyapimac.php",
       "cate": "国产,1&&无码,5&&欧美,3",
       "click": false,
@@ -186,7 +34,7 @@
     },	
 	      {
       "id": 1,
-      "name": "★苍天资源",
+      "name": "※苍天资源",
       "url": "http://cj.cangtiancj.com/api.php/Seacms/vod/at/xml/",
       "cate": "国产,70&&无码,67&&欧美,71",
       "click": false,
@@ -194,7 +42,7 @@
     },	
 	      {
       "id": 1,
-      "name": "★乐播资源",
+      "name": "※乐播资源",
       "url": "https://lbapi9.com/api.php/provide/vod/at/xml/",
       "cate": "国产,3&&无码,4&&欧美,5",
       "click": false,
@@ -202,7 +50,7 @@
     },	
     {
       "id": 1,
-      "name": "★番号资源",
+      "name": "※番号资源",
       "url": "http://fhapi9.com/api.php/provide/vod/at/xml/",
       "cate": "国产,10&&无码,3&&欧美,7",
       "click": false,
@@ -210,7 +58,7 @@
     },	
     {
       "id": 1,
-      "name": "★鲨鱼",
+      "name": "※鲨鱼",
       "url": "https://shayuapi.com/api.php/provide/vod/at/xml/",
       "cate": "国产,1&&无码,2&&欧美,23&&网红,21&&动漫,22&&国模,24&&伦理,28&&精品,31",
       "click": true,
