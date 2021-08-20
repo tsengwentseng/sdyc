@@ -4,3 +4,4 @@ https://purge.jsdelivr.net/gh/tsengwentseng/sdyc@main/tv/
 
 https://github.com/tsengwentseng/sdyc/raw/main/tv/
 
+https://gitee.com/fanxingbox/tv/tree/master
