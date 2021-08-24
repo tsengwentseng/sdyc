@@ -34,14 +34,6 @@
     },	
 	      {
       "id": 1,
-      "name": "※苍天",
-      "url": "http://cj.cangtiancj.com/api.php/Seacms/vod/at/xml/",
-      "cate": "国产,70&&无码,67&&欧美,71&&动画,72",
-      "click": true,
-      "wePlus": {}
-    },	
-	      {
-      "id": 1,
       "name": "※乐播",
       "url": "https://lbapi9.com/api.php/provide/vod/at/xml/",
       "cate": "国产,3&&无码,4&&欧美,5&&动画,12",
@@ -144,22 +136,6 @@
       "click": true,
       "wePlus": {}    
  },  
-       {
-      "id": 1,
-      "name": "※富二代",
-      "url": "http://f2dcj6.com/sapi?ac=videolist",
-      "cate": "国产,10&&无码,19&&欧美,1&&动画,5",
-      "click": true,
-      "wePlus": {}    
- },  
-     {
-      "id": 1,
-      "name": "※玖玖",
-      "url": "http://99zywcj.com/inc/sck.php?ac=videolist",
-      "cate": "国产,5&&无码,10&&欧美,1&&动画,2",
-      "click": true,
-      "wePlus": {}    
- }, 
      {
       "id": 1,
       "name": "※久草",
@@ -170,27 +146,11 @@
  },  
       {
       "id": 1,
-      "name": "※利来",
-      "url": "http://llzxcj.com/inc/sck.php?ac=videolist",
-      "cate": "国产,5&&无码,42&&欧美,46&&动画,43",
-      "click": true,
-      "wePlus": {}    
- },  
-      {
-      "id": 1,
       "name": "※字幕",
       "url": "http://zmcj88.com/sapi?ac=videolist",
       "cate": "国产,14&&无码,2&&欧美,4&&动画,10",
       "click": true,
       "wePlus": {}    
- },   
-       {
-      "id": 1,
-      "name": "※狼少年",
-      "url": "http://cjmygzy.com/inc/sapi.php?ac=videolist",
-      "cate": "国产,1&&无码,20&&欧美,8&&动画,25",
-      "click": true,
-      "wePlus": {}    
- } 
+ }
   ]
 }
