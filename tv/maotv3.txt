@@ -392,7 +392,7 @@
                 
             ]
         },
-		        {
+		       {
             "key": "芒果（限成年人）",
             "name": "芒果（限成年人）",
             "type": 0,
@@ -443,9 +443,7 @@
                         "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226338/1.m3u8"
                     ]
                 }
-			    ]
-                }
-                ]
+              ]
             }
         ],
         "parses": [
@@ -661,7 +659,7 @@
                         "name": "framedrop",
                         "value": "1"
                     },
-                    {8
+                    {
                         "category": 4,
                         "name": "soundtouch",
                         "value": "1"
