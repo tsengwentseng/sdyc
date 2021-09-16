@@ -391,7 +391,7 @@
             "categories": [
                 
             ]
-        }
+        },
 		        {
             "key": "芒果（限成年人）",
             "name": "芒果（限成年人）",
@@ -661,7 +661,7 @@
                         "name": "framedrop",
                         "value": "1"
                     },
-                    {
+                    {8
                         "category": 4,
                         "name": "soundtouch",
                         "value": "1"
