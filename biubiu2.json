@@ -2,21 +2,15 @@
 {"name":"※优酷视频","url":"http://zy.yilans.net:8090/api.php/provide/vod/from/youku/at/xml/"},
 {"name":"※天堂","url":"http://vipmv.cc/api.php/provide/vod/at/xml"},
 {"name":"※天空云","url":"https://api.tiankongapi.com/api.php"},
-{"name":"填接口名称","url":"https://xxx/xgapp.php/v2/"},
-{"name":"填接口名称","url":"http://xxx/mogai_api.php/v1.vod"}
-],//主页接口支持以上5种接口格式，比如猫影视里面的接口，只要后缀是以上5种的格式，都是可以直接复制过来使用的。最后一个接口结尾不加 , 号。
+],
 "zhujiexi": "https://www.ckmov.vip/api.php?url=#https://jx.xmflv.com/?url=",
 "beiyongjiexi": "https://jx.ergan.top/?url=#https://go.yh0523.cn/y.cy?url=",
-"dianshizhibo": "https://xxx.txt",//填写电视直播的接口链接
-"caijizhan": "http://xxx/api.php",//填采集站接口,采集站后缀填写到api.php就可以了，后面那些不用填写，一次只可以填写一个。
-"tiyuzhibo": "https://xxx.com",
-"reci": "https://v.sogou.com",
-"wuqu": "aHR0cDovL3d3dy5kanV1LmNvbQ==",
-"lunbo": [
-{"name": "填写名称","fanye": "填写翻页链接","qianzhui": "填写播放前缀"},
-{"name": "填写名称","fanye": "填写翻页链接","qianzhui": "填写播放前缀"},
-{"name": "填写名称","fanye": "填写翻页链接","qianzhui": "填写播放前缀"},
-{"name": "填写名称","fanye": "填写翻页链接","qianzhui": "填写播放前缀"}],//翻页链接和播放前缀的格式是base64编码
+"dianshizhibo": "",
+"caijizhan": "",
+"tiyuzhibo": "",
+"reci": "",
+"wuqu": "",
+"lunbo": [],
 "Home": {
 "dy": {
 "class": "全部$&class=#喜剧$&class=喜剧#爱情$&class=爱情#动作$&class=动作#枪战$&class=枪战#犯罪$&class=犯罪#惊悚$&class=惊悚#恐怖$&class=恐怖#悬疑$&class=悬疑#动画$&class=动画#家庭$&class=家庭#奇幻$&class=奇幻#魔幻$&class=魔幻#科幻$&class=科幻#战争$&class=战争#青春$&class=青春#剧情$&class=剧情#西部$&class=西部#纪录$&class=记录#音乐$&class=音乐#歌舞$&class=歌舞#运动$&class=运动#历史$&class=历史#武侠$&class=武侠#冒险$&class=冒险#传记$&class=传记",
