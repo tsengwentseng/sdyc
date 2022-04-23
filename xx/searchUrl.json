@@ -23,9 +23,8 @@
       "cate": "国产,1&&无码,2&&欧美,23&&动画,22",
       "click": true,
       "wePlus": {}    
- },  
- 	      
-	      {
+ },  	      
+	  {
       "id": 1,
       "name": "※乐播",
       "url": "https://lbapi9.com/api.php/provide/vod/at/xml/",
@@ -38,14 +37,6 @@
       "name": "※丝袜",
       "url": "https://www.siwazyw.com/api.php/provide/vod/at/xml",
       "cate": "国产,24&&无码,1&&欧美,3&&动画,5",
-      "click": true,
-      "wePlus": {}    
- }, 
-     {
-      "id": 1,
-      "name": "※秀色",
-      "url": "https://api.xiuseapi.com/api.php/provide/vod/at/xml",
-      "cate": "国产,1&&无码,6&&欧美,3&&动画,8",
       "click": true,
       "wePlus": {}    
  }, 
