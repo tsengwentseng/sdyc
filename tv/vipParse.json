@@ -1,52 +1,34 @@
 {
   "data": [
-	 {
+	 	 {
 	"id": 1, 
-	"name": "线路1", 
+	"name": "OK解析", 
 	"ad": "no", 
-	"url": "https://www.ckmov.vip/api.php?url=" 
+	"url": "https://okjx.cc/?url=" 
 	 }, 
 	 	 {
-	"id": 2, 
-	"name": "线路2", 
-	"ad": "no", 
-	"url": "https://jx.xmflv.com/?url=" 
-	 }, 
-	 	 {
-	"id": 3, 
-	"name": "线路3", 
-	"ad": "no", 
-	"url": "https://jx.ergan.top/?url=" 
-	 }, 
-	 	 {
-	"id": 4, 
-	"name": "线路4", 
-	"ad": "no", 
-	"url": "https://go.yh0523.cn/y.cy?url=" 
-	 }, 
-	 	 {
-	"id": 5, 
-	"name": "线路5", 
-	"ad": "no", 
-	"url": "https://www.1717yun.com/jx/ty.php?url=" 
-	 }, 
-	 	 {
-	"id": 6, 
-	"name": "线路6", 
-	"ad": "no", 
-	"url": "https://www.8090g.cn/?url=" 
-	 }, 
-	 	 {
-	"id": 7, 
-	"name": "线路7", 
+	"id": 1, 
+	"name": "M3U8", 
 	"ad": "no", 
 	"url": "https://jx.m3u8.tv/jiexi/?url=" 
 	 }, 
 	 	 {
 	"id": 1, 
-	"name": "线路8", 
+	"name": "虾米", 
 	"ad": "no", 
-	"url": "https://vip.bljiex.com/?v=" 
+	"url": "https://jx.xmflv.com/?url=" 
+	 }, 
+	 	 {
+	"id": 1, 
+	"name": "天翼解析", 
+	"ad": "no", 
+	"url": "https://jsap.attakids.com/?url=" 
+	 }, 
+	 	 {
+	"id": 1, 
+	"name": "云解析", 
+	"ad": "no", 
+	"url": "https://jx.aidouer.net/?url=" 
 	 }
 		]
 }
